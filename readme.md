@@ -11,4 +11,4 @@ You'll also notice a "randomcount" variable next to the first base sentence and 
 
 ## Use cases
 
-I actually don't know what cases you'd use this in, I pretty much made it for fun
+I don't know what cases you'd use this in, I only made it for fun
