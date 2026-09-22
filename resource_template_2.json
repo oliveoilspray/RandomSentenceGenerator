@@ -1,0 +1,111 @@
+{
+	"variables": [
+	{
+	"randomcount": 2,
+	"randombase1": [
+	{
+		"name": "SentenceTemplate",
+		"value": "Welcome. Welcome to [[Item0]]. You have chosen, or been chosen to relocate to [[Item1]]. I thought so much of [[Item0]] that I elected to establish [[Item2]] here, in the [[Item3]] so thoughtfully provided by [[Item4]]. I have been proud to call [[Item0]] my home. And so, whether you are here to stay, or passing through on your way to parts unknown, welcome to [[Item0]]. It's [[Item5]] here."
+	},
+	{
+		"name": "Item0",
+		"randomcount": 4,
+		"random1": "City 17",
+		"random2": "hell",
+		"random3": "Black Mesa",
+		"random4": "Aperture Science"
+	},
+	{
+		"name": "Item1",
+		"randomcount": 2,
+		"random1": "one of our finest remaining urban centers",
+		"random2": "your personal punishment"
+	},
+	{
+		"name": "Item2",
+		"randomcount": 3,
+		"random1": "my Administration",
+		"random2": "my kingdom",
+		"random3": "the Combine Empire"
+	},
+	{
+		"name": "Item3",
+		"randomcount": 2,
+		"random1": "Citadel",
+		"random2": "Wrath layer"
+	},
+	{
+		"name": "Item4",
+		"randomcount": 4,
+		"random1": "our benefactors",
+		"random2": "Satan himself",
+		"random3": "Doctor Freeman",
+		"random4": "Cave Johnson"
+	},
+	{
+		"name": "Item5",
+		"randomcount": 2,
+		"random1": "safer",
+		"random2": "horrible"
+	},
+	{
+		"name": "Item6",
+		"randomcount": 0
+	},
+	{
+		"name": "Item7",
+		"randomcount": 0
+	}
+	],
+	"randombase2": [
+	{
+		"name": "SentenceTemplate",
+		"value": "Yo mama so [[Item0]], [[Item1]] thought she was [[Item2]]"
+	},
+	{
+		"name": "Item0",
+		"randomcount": 5,
+		"random1": "stupid",
+		"random2": "fat",
+		"random3": "short",
+		"random4": "old",
+		"random5": "ugly"
+	},
+	{
+		"name": "Item1",
+		"randomcount": 3,
+		"random1": "Superman",
+		"random2": "Spider-Man",
+		"random3": "Batman"
+	},
+	{
+		"name": "Item2",
+		"randomcount": 3,
+		"random1": "the Green Goblin",
+		"random2": "the Joker",
+		"random3": "the SUPER BOWL"
+	},
+	{
+		"name": "Item3",
+		"randomcount": 0
+	},
+	{
+		"name": "Item4",
+		"randomcount": 0
+	},
+	{
+		"name": "Item5",
+		"randomcount": 0
+	},
+	{
+		"name": "Item6",
+		"randomcount": 0
+	},
+	{
+		"name": "Item7",
+		"randomcount": 0
+	}
+	]
+	}
+	]
+}
